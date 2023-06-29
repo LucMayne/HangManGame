@@ -7,4 +7,4 @@ You Lose if you guess 10 incorrect letters.
 
 SET UP:
 navigate to this projects directory using 'cd' in the command prompt
-type 'npm start' to run the project
+type 'npm start' to run the project, it will automatically install node_modules for you.
