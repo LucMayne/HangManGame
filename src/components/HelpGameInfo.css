@@ -1,0 +1,22 @@
+#help-button {
+    font-weight: 700;
+    font-size: 15px;
+    color: rgba(233, 46, 46, 0.856);
+    margin: 1vh 0;
+    padding: 1vh;
+    border: 2px solid;
+    border-radius: 1vh;
+}
+
+.help-container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 1vh auto;
+    max-width: 250px;
+    padding: 1vh 2vh;
+    background-color: rgba(201, 201, 201, 0.726);
+    border-radius: 2vh;
+}
+
+#ul-container {
+    text-align: left;
+}
